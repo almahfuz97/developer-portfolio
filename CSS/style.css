@@ -50,4 +50,23 @@ h1 {
 .lower-section {
     padding-left: 2%;
     padding-right: 2%;
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+
+.bottom {
+    width: 40%;
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 5px;
+    text-align: left;
+    border-radius: 15px;
+    border-left: 2px solid blue;
+}
+
+.foot {
+    text-align: center;
 }
