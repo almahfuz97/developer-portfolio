@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 110px;
 }
@@ -45,5 +45,9 @@ h1 {
     background-image: url(../images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right bottom;
+}
 
+.lower-section {
+    padding-left: 2%;
+    padding-right: 2%;
 }
